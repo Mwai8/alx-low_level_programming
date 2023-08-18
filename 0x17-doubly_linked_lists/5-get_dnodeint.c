@@ -1,3 +1,4 @@
+#include "lists.h"
 
 /**
  * get_dnodeint_at_index - gets the nth node of a doubly linked list
